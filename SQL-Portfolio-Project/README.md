@@ -27,9 +27,9 @@ The goal was to analyze patient encounters, procedures, payer coverage, costs, a
 🛠️ Tools & Skills
 - SQL (joins, aggregations, CTEs, CASE statements, window functions)  
 - Data analysis and reporting  
-- Healthcare analytics  
+- Healthcare analytics
+  ## 📂 Files Included
+- `SQL PORTFOLIO PROJECT.pdf` → report with SQL queries, explanations, and results
 
-
-
-## 🚀 Next Steps
-This project is part of my **SQL learning portfolio**. More case studies and business analysis projects will be added in future.  
+# Next Steps
+This project is part of my SQL learning portfolio, More case studies and business analysis projects will be added in future.  
